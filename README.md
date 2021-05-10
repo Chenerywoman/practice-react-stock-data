@@ -1,5 +1,5 @@
 # Practice React: stock-data
-GitHub SSH test
+
 This was a test on HackerRank to use the fetch API to obtain stock data and display it on the screen.
 
 The tests and the components were pre-written by HackerRank.  The task was to create the functionality required below.
